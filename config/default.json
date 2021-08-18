@@ -1,4 +1,4 @@
 {
     "mongoURI":
-      "mongodb+srv://jacksontrudel:jackson33@books-app1.ak29l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+      "mongodb+srv://books-app-public-user:YHHjTqbNkv3RUmEo@books-app1.ak29l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
   }
